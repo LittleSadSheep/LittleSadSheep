@@ -9,8 +9,6 @@
 
 ### 技能树 (◕ᴗ◕✿)
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/assets/anime-girl.gif" width="250">
-
 ![](https://skillicons.dev/icons?i=docker,linux,blender,ps,pr,ae)
 
 ### 游戏档案 (◕ᴗ◕✿)
