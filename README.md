@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**LittleSadSheep/LittleSadSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
 <img src="https://down.sheepmc.top:54188/PC.jpg" width="100%">
@@ -28,15 +12,10 @@ Here are some ideas to get you started:
 ### 技能树 (◕ᴗ◕✿)
 ![](https://skillicons.dev/icons?i=docker,linux,blender,ps,pr,ae)
 
-</div>
-
 ### 游戏档案 (◕ᴗ◕✿)
 
-[genshin-image]: https://genshin-card.himiku.com/rand/302923755.png
-[genshin-link]: https://enka.network/u/207525768
+[![genshin-image]][genshin-link]
 
-<div align="center">
-<img src="https://minecraft-statistic.vercel.app/api/card?username=LittleSadSheep" width="400">
 
 ### 统计信息 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
@@ -50,4 +29,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/362076357)
 
 </div>
+
+[genshin-image]: https://genshin-card.himiku.com/rand/302923755.png
+[genshin-link]: https://enka.network/u/207525768
 
