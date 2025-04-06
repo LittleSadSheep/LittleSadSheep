@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 > 🤔 完全不会编程，只会新建文件夹和面向Cursor编程
 > 
-> 💭 整天幻想项目完成的快感，但从未真正完成过任何项目
+> 💭 整天幻想项目完成，但从未真正完成过任何项目
 > 
 > 🎯 注意力难以集中，经常陷入白日梦
 > 
@@ -21,17 +21,17 @@
 ![](https://skillicons.dev/icons?i=docker,linux,blender,ps,pr,ae)
 
 ### 游戏档案 (◕ᴗ◕✿)
-
 [![genshin-image]][genshin-link]
 
 
 ### 统计信息 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
+~~虽然是空的~~<br>
+<br>
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LittleSadSheep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=buefy" />
 
 ### 来找我玩吧 (｡◕‿◕｡)
-
 <a href="http://sheepmc.top:721" target="_blank">
   <img src="https://img.shields.io/badge/Blog-%23FFA7C4.svg?&style=for-the-badge&logo=hexo&logoColor=white" height="50" style="border-radius: 12px"/>
 </a>&nbsp;&nbsp;&nbsp;
