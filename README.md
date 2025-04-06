@@ -1,7 +1,7 @@
 # 你好，我是LittleSadSheep！
 <div align="center">
 
-<img src="https://down.sheepmc.top:54188/PC.jpg" width="100%" alt="banner" loading="lazy">
+<img src="https://down.sheepmc.top:54188/PC.webp" width="100%" alt="banner" loading="lazy">
 
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
