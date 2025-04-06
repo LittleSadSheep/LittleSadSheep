@@ -28,10 +28,14 @@ Here are some ideas to get you started:
 ### 技能树 (◕ᴗ◕✿)
 ![](https://skillicons.dev/icons?i=docker,linux,blender,ps,pr,ae)
 
+</div>
+
 ### 游戏档案 (◕ᴗ◕✿)
 
 [genshin-image]: https://genshin-card.himiku.com/rand/302923755.png
 [genshin-link]: https://enka.network/u/207525768
+
+<div align="center">
 <img src="https://minecraft-statistic.vercel.app/api/card?username=LittleSadSheep" width="400">
 
 ### 统计信息 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
