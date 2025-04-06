@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ### 游戏档案 (◕ᴗ◕✿)
 
-<img src="https://genshin-card.getloli.com/rand/207525768.png" width="400">
-<img src="https://starrail-card.getloli.com/rand/102151354.png" width="400">
+[genshin-image]: https://genshin-card.himiku.com/rand/302923755.png
+[genshin-link]: https://enka.network/u/207525768
 <img src="https://minecraft-statistic.vercel.app/api/card?username=LittleSadSheep" width="400">
 
 ### 统计信息 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
