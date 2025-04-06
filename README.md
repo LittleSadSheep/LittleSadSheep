@@ -7,9 +7,10 @@
 ![](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 
+### 技能树 (◕ᴗ◕✿)
+
 <img align="right" src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/assets/anime-girl.gif" width="250">
 
-### 技能树 (◕ᴗ◕✿)
 ![](https://skillicons.dev/icons?i=docker,linux,blender,ps,pr,ae)
 
 ### 游戏档案 (◕ᴗ◕✿)
