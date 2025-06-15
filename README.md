@@ -31,7 +31,7 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=buefy" />
 
 ### 来找我玩吧 (｡◕‿◕｡)
-<a href="http://sheepmc.top:721" target="_blank">
+<a href="https://blog.sheepmc.top" target="_blank">
   <img src="https://img.shields.io/badge/Blog-%23FFA7C4.svg?&style=for-the-badge&logo=hexo&logoColor=white" height="50" style="border-radius: 12px"/>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/LittleSadSheep" target="_blank">
