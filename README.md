@@ -17,7 +17,7 @@
 
 ### 技能树 (◕ᴗ◕✿)
 
-![](https://skillicons.dev/icons?i=docker,linux,blender,ps,pr,ae)
+![](https://skillicons.dev/icons?i=python,cpp,java,js,php,docker,linux,blender,ps,pr,ae)
 
 ### 游戏档案 (◕ᴗ◕✿)
 [![genshin-image]][genshin-link]
