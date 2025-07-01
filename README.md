@@ -18,35 +18,31 @@
 
 <div align="left">
 
-### 技能树 ψ(｀∇´)ψ
----
+## 技能树 ψ(｀∇´)ψ
 <div align="middle">
 
 ![](https://skillicons.dev/icons?i=python,cpp,java,js,php,docker,linux,blender,ps,pr,ae)
 
 <div align="left">
 
-### 游戏档案 (/≧▽≦)/
----
+## 游戏档案 (/≧▽≦)/
 <div align="middle">
 
 [![genshin-image]][genshin-link]
 
 <div align="left">
 
-### 统计信息 (\*/ω\\*)
----
+## 统计信息 (\*/ω\\*)
 <div align="middle">
 
-~~虽然是空的~~<br>
+#### ***~~虽然是空的~~***<br>
 <br>
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LittleSadSheep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=tokyonight" />
 
 <div align="left">
 
-### 来找我玩吧 <(￣︶￣)↗[GO!]
----
+## 来找我玩吧 <(￣︶￣)↗[GO!]
 <div align="middle">
 
 <a href="https://blog.sheepmc.top" target="_blank">
