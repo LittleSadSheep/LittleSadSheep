@@ -1,5 +1,5 @@
-# 你好，我是LittleSadSheep！
-<div align="center">
+# (👉ﾟヮﾟ)👉 你好，我是LittleSadSheep！ 👈(ﾟヮﾟ👈)
+<div align="left">
 
 <img src="https://down.sheepmc.top:54188/PC.webp" width="100%" alt="banner" loading="lazy">
 
@@ -7,7 +7,8 @@
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
-
+---
+> [!WARNING]
 > 💭 整天幻想项目完成，但从未真正完成过任何项目
 > 
 > 🎯 注意力难以集中，经常陷入白日梦
@@ -15,22 +16,24 @@
 > 📁 最擅长的技能是新建文件夹
 
 
-### 技能树 (◕ᴗ◕✿)
-
+### 技能树 ψ(｀∇´)ψ
+---
 ![](https://skillicons.dev/icons?i=python,cpp,java,js,php,docker,linux,blender,ps,pr,ae)
 
-### 游戏档案 (◕ᴗ◕✿)
+### 游戏档案 (/≧▽≦)/
+---
 [![genshin-image]][genshin-link]
 
 
-### 统计信息 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
+### 统计信息 (\*/ω\\*)
+---
 ~~虽然是空的~~<br>
 <br>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LittleSadSheep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=buefy" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LittleSadSheep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=tokyonight" />
 
-### 来找我玩吧 (｡◕‿◕｡)
+### 来找我玩吧 <(￣︶￣)↗[GO!]
+---
 <a href="https://blog.sheepmc.top" target="_blank">
   <img src="https://img.shields.io/badge/Blog-%23FFA7C4.svg?&style=for-the-badge&logo=hexo&logoColor=white" height="50" style="border-radius: 12px"/>
 </a>&nbsp;&nbsp;&nbsp;
