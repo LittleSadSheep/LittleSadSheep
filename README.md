@@ -121,8 +121,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/LittleSadSheep/count.svg)
 
-</div>
-
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/profile-3d-contrib/profile-night-rainbow.svg" />
