@@ -7,9 +7,7 @@
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
----
 
-> [!WARNING]
 > 💭 整天幻想项目完成，但从未真正完成过任何项目
 > 
 > 🎯 注意力难以集中，经常陷入白日梦
