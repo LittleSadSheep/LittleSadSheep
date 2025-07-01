@@ -96,21 +96,6 @@
 </div>
 <div align="left">
 
-## 统计信息 (\*/ω\\*)
-</div>
-<div align="middle">
-
-#### ***~~虽然是空的~~***<br>
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleSadSheep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=tokyonight)
-
-![Visitor Count](https://profile-counter.glitch.me/LittleSadSheep/count.svg)
-
-</div>
-
 <div align="left">
 
 ## 来找我玩吧 <(￣︶￣)↗[GO!]
@@ -128,6 +113,23 @@
 </a>
 
 </div>
+
+
+## 统计信息 (\*/ω\\*)
+</div>
+<div align="middle">
+
+#### ***~~虽然是空的~~***<br>
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleSadSheep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/LittleSadSheep/count.svg)
+
+</div>
+
 
 <!-- first form 第一个表格 -->
 <table>
