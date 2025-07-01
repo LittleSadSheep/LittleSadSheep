@@ -41,6 +41,9 @@
 > 
 > 📁 最擅长的技能是新建文件夹
 
+</div>
+
+<div align="middle">
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
