@@ -166,3 +166,7 @@
 [genshin-image]: https://genshin-card.himiku.com/rand/302923755.png
 [genshin-link]: https://enka.network/u/207525768
 
+
+<!-- feed start -->
+- Feb 22 - [有道词典笔S6获取adb权限](https://blog.sheepmc.top/posts/%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8%E7%AC%94s6%E8%8E%B7%E5%8F%96adb%E6%9D%83%E9%99%90/)
+<!-- feed end -->
