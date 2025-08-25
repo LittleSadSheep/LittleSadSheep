@@ -168,5 +168,7 @@
 
 
 <!-- feed start -->
+- Aug 21 - [当路由器开始“偷窥”：我是如何用 Hysteria2 让它彻底失明的](https://blog.sheepmc.top/posts/%E5%BD%93%E8%B7%AF%E7%94%B1%E5%99%A8%E5%BC%80%E5%A7%8B%E5%81%B7%E7%AA%A5%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E7%94%A8-hysteria2-%E8%AE%A9%E5%AE%83%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%98%8E%E7%9A%84/)
+- Aug 08 - [关于我在香港装了一条 1 Gbps 宽带，却差点被“回国带宽”气哭](https://blog.sheepmc.top/posts/%E5%85%B3%E4%BA%8E%E6%88%91%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%A3%85%E4%BA%86%E4%B8%80%E6%9D%A11-gbps%E5%AE%BD%E5%B8%A6%E5%8D%B4%E5%B7%AE%E7%82%B9%E8%A2%AB%E5%9B%9E%E5%9B%BD%E5%B8%A6%E5%AE%BD%E6%B0%94%E5%93%AD/)
 - Feb 22 - [有道词典笔S6获取adb权限](https://blog.sheepmc.top/posts/%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8%E7%AC%94s6%E8%8E%B7%E5%8F%96adb%E6%9D%83%E9%99%90/)
 <!-- feed end -->
