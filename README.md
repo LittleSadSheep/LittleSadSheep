@@ -22,7 +22,7 @@
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
-![HUAWEI Badge](https://img.shields.io/badge/HUWEI-c2182e?logo=huawei&logoColor=fff&style=flat)
+![HUAWEI Badge](https://img.shields.io/badge/HUAWEI-c2182e?logo=huawei&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![ROG Badge](https://img.shields.io/badge/ROG-ef0a2b?logo=republicofgamers&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
