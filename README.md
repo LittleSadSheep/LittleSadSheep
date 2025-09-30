@@ -1,7 +1,8 @@
 <div align="middle">
 
 # (👉ﾟヮﾟ)👉 你好，我是LittleSadSheep！ 👈(ﾟヮﾟ👈)
-<img src="https://down.sheepmc.top:54188/PC.webp" width="100%" alt="banner" loading="lazy">
+<!-- <img src="https://down.sheepmc.top:54188/PC.webp" width="100%" alt="banner" loading="lazy"> -->
+<img src="Background.jpg" width="100%" alt="banner" loading="lazy">
 
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Blender Badge](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
