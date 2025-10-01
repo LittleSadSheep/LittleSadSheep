@@ -47,9 +47,9 @@
 <div align="middle">
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -65,7 +65,7 @@
 </table>
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/base.svg" />
+<img src="./github-metrics/base.svg" />
 </div>
 
 <div align="left">
@@ -120,43 +120,43 @@
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="./github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="./github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="./github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="./github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="./github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="./github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="./github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="./github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="./github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="./github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="./github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LittleSadSheep/LittleSadSheep/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="./github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="./github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
