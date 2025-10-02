@@ -111,9 +111,9 @@
 ### **~~菜.jpg~~**<br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleSadSheep&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LittleSadSheep&count_private=true&locale=cn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight&v=1"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=tokyonight">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSadSheep&hide_title=true&hide_border=true&layout=compact&theme=tokyonight)
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
