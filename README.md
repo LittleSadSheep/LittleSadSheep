@@ -47,7 +47,7 @@
 
   <table border="0" align="right" width="300">
     <tr>
-      <th><img align="right" src="./Elysia.png"/></th>
+      <th><img align="right" src="./Elysia.png" width="300"/></th>
     </tr>
     <tr>
       <td>
