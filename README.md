@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td>
-      放一只爱莉希雅在这里……<br> 
+      放一块香香软软的草莓小蛋糕在这里……<br> 
       <div style="text-align: left;font-weight: bold;font-size: 20px;">
         没错！我是爱莉厨哈哈哈哈哈哈哈哈哈~
       </div></td>
