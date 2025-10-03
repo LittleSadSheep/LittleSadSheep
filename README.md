@@ -45,9 +45,9 @@
   <!-- metrics 基础资料 -->
   <img align="left" src="./github-metrics/base.svg" />
 
-  <table border="0" align="right">
+  <table border="0" align="right" width="300">
     <tr>
-      <th><img align="right" src="./Elysia.png" width="320"/></th>
+      <th><img align="right" src="./Elysia.png"/></th>
     </tr>
     <tr>
       <td>
