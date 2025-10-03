@@ -41,9 +41,29 @@
 > 
 > 📁 最擅长的技能是新建文件夹
 
+
+  <!-- metrics 基础资料 -->
+  <img align="left" src="./github-metrics/base.svg" />
+
+  <table border="0" align="right">
+    <tr>
+      <th><img align="right" src="./Elysia.png" width="320"/></th>
+    </tr>
+    <tr>
+      <td>
+      放一只爱莉希雅在这里……<br> 
+      <div style="text-align: left;font-weight: bold;font-size: 20px;">
+        没错！我是爱莉厨哈哈哈哈哈哈哈哈哈~
+      </div></td>
+    </tr>
+  </table>
+
+  
+  
 </div>
 
 <div align="middle">
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -63,8 +83,7 @@
   </tr>
 </table>
 
-<!-- metrics 基础资料 -->
-<img src="./github-metrics/base.svg" />
+
 </div>
 
 <div align="left">
