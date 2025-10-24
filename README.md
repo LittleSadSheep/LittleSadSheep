@@ -92,36 +92,9 @@
 </div>
 <div align="middle">
 
-![](https://skillicons.dev/icons?i=python,cpp,java,js,php,docker,linux,blender,ps,pr,ae)
+![](https://skillicons.dev/icons?i=python,cpp,java,kotlin,js,php,markdown,docker,linux,blender,ps,pr,ae)
 </div>
 <div align="left">
-
-## 游戏档案 (/≧▽≦)/
-</div>
-<div align="middle">
-
-[![genshin-image]][genshin-link]
-</div>
-<div align="left">
-
-<div align="left">
-
-## 来找我玩吧 <(￣︶￣)↗[GO!]
-</div>
-<div align="middle">
-
-<a href="https://blog.sheepmc.top" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-%23FFA7C4.svg?&style=for-the-badge&logo=hexo&logoColor=white" height="50" style="border-radius: 12px"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/LittleSadSheep" target="_blank">
-  <img src="https://img.shields.io/badge/Github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="50" style="border-radius: 12px"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://space.bilibili.com/362076357" target="_blank">
-  <img src="https://img.shields.io/badge/bilibili-%2300A1D6.svg?&style=for-the-badge&logo=bilibili&logoColor=white" height="50" style="border-radius: 12px"/>
-</a>
-
-</div>
-
 
 ## 统计信息 (\*/ω\\*)
 <div align="middle">
@@ -144,7 +117,7 @@
 <br>
 
 <details>
-  <summary>点击展开查看内容</summary>
+  <summary>点击展开 超——长——详——情——</summary>
   <div align="middle">
 
 
@@ -199,6 +172,27 @@
 
 
 <div align="left">
+
+## 来找我玩吧 <(￣︶￣)↗[GO!]
+</div>
+<div align="middle">
+
+<a href="https://blog.sheepmc.top" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-%23FFA7C4.svg?&style=for-the-badge&logo=hexo&logoColor=white" height="50" style="border-radius: 12px"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/LittleSadSheep" target="_blank">
+  <img src="https://img.shields.io/badge/Github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="50" style="border-radius: 12px"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://space.bilibili.com/362076357" target="_blank">
+  <img src="https://img.shields.io/badge/bilibili-%2300A1D6.svg?&style=for-the-badge&logo=bilibili&logoColor=white" height="50" style="border-radius: 12px"/>
+</a>
+<br>
+<br>
+
+[![genshin-image]][genshin-link]
+
+</div>
+
 
 ## 近期博客 ☆*: .｡. o(≧▽≦)o .｡.:*☆
 <img src="https://down.sheepmc.top:54188/PC.webp" width="100%" alt="banner" loading="lazy">
