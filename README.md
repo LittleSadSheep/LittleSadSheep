@@ -204,8 +204,9 @@
 
 
 <!-- feed start -->
+- Nov 30 - [Hyper-V + Linux GPU 加速：一场“硬件限制”与“驱动缺失”的双重夹击战](https://blog.sheepmc.top/posts/hyper-v--linux-gpu-%E5%8A%A0%E9%80%9F%E4%B8%80%E5%9C%BA%E7%A1%AC%E4%BB%B6%E9%99%90%E5%88%B6%E4%B8%8E%E9%A9%B1%E5%8A%A8%E7%BC%BA%E5%A4%B1%E7%9A%84%E5%8F%8C%E9%87%8D%E5%A4%B9%E5%87%BB%E6%88%98/)
+- Nov 23 - [从选系统到装 Hyprland：一台游戏本的双系统“修行记”](https://blog.sheepmc.top/posts/%E4%BB%8E%E9%80%89%E7%B3%BB%E7%BB%9F%E5%88%B0%E8%A3%85-hyprland%E4%B8%80%E5%8F%B0%E6%B8%B8%E6%88%8F%E6%9C%AC%E7%9A%84%E5%8F%8C%E7%B3%BB%E7%BB%9F%E4%BF%AE%E8%A1%8C%E8%AE%B0/)
 - Oct 12 - [让密码登录“先过 2FA”而私钥秒进：一份不说废话的 SSH 配置笔记](https://blog.sheepmc.top/posts/%E8%AE%A9%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E5%85%88%E8%BF%87-2fa%E8%80%8C%E7%A7%81%E9%92%A5%E7%A7%92%E8%BF%9B%E4%B8%80%E4%BB%BD%E4%B8%8D%E8%AF%B4%E5%BA%9F%E8%AF%9D%E7%9A%84-ssh-%E9%85%8D%E7%BD%AE%E7%AC%94%E8%AE%B0/)
 - Aug 21 - [当路由器开始“偷窥”：我是如何用 Hysteria2 让它彻底失明的](https://blog.sheepmc.top/posts/%E5%BD%93%E8%B7%AF%E7%94%B1%E5%99%A8%E5%BC%80%E5%A7%8B%E5%81%B7%E7%AA%A5%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E7%94%A8-hysteria2-%E8%AE%A9%E5%AE%83%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%98%8E%E7%9A%84/)
 - Aug 08 - [关于我在香港装了一条 1 Gbps 宽带，却差点被“回国带宽”气哭](https://blog.sheepmc.top/posts/%E5%85%B3%E4%BA%8E%E6%88%91%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%A3%85%E4%BA%86%E4%B8%80%E6%9D%A11-gbps%E5%AE%BD%E5%B8%A6%E5%8D%B4%E5%B7%AE%E7%82%B9%E8%A2%AB%E5%9B%9E%E5%9B%BD%E5%B8%A6%E5%AE%BD%E6%B0%94%E5%93%AD/)
-- Feb 22 - [有道词典笔S6获取adb权限](https://blog.sheepmc.top/posts/%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8%E7%AC%94s6%E8%8E%B7%E5%8F%96adb%E6%9D%83%E9%99%90/)
 <!-- feed end -->
