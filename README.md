@@ -206,8 +206,8 @@
 </div>
 
 [blog-bg]: https://down.sheepmc.top:54188/PC.webp
-[arknights-image]: https://down.sheepmc.top:54188/Arknights_Card.png
-[arknights-link]: https://down.sheepmc.top:54188/Arknights_Card.png
+[arknights-image]: https://down.sheepmc.top:54188/Arknights_Card.webp
+[arknights-link]: https://down.sheepmc.top:54188/Arknights_Card.webp
 [genshin-image]: https://genshin-card.himiku.com/rand/302923755.png
 [genshin-link]: https://enka.network/u/207525768
 
