@@ -189,7 +189,8 @@
 <br>
 <br>
 
-<img src="https://down.sheepmc.top:54188/Arknights_Card.png" width="100%" alt="banner" loading="lazy">
+[![arknights-image]][arknights-link]
+<!-- <img src="https://down.sheepmc.top:54188/Arknights_Card.png" width="100%" alt="banner" loading="lazy"> -->
 <br>
 
 [![genshin-image]][genshin-link]
@@ -198,10 +199,15 @@
 
 
 ## 近期博客 ☆*: .｡. o(≧▽≦)o .｡.:*☆
-<img src="https://down.sheepmc.top:54188/PC.webp" width="100%" alt="banner" loading="lazy">
+<!-- <img src="https://down.sheepmc.top:54188/PC.webp" width="100%" alt="banner" loading="lazy"> -->
+
+[![blog-bg]][blog-bg]
 
 </div>
 
+[blog-bg]: https://down.sheepmc.top:54188/PC.webp
+[arknights-image]: https://down.sheepmc.top:54188/Arknights_Card.png
+[arknights-link]: https://down.sheepmc.top:54188/Arknights_Card.png
 [genshin-image]: https://genshin-card.himiku.com/rand/302923755.png
 [genshin-link]: https://enka.network/u/207525768
 
