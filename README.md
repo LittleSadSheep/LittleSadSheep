@@ -189,6 +189,9 @@
 <br>
 <br>
 
+<img src="https://down.sheepmc.top:54188/Arknights_Card.png" width="100%" alt="banner" loading="lazy">
+<br>
+
 [![genshin-image]][genshin-link]
 
 </div>
