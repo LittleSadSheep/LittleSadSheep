@@ -3,6 +3,8 @@
 # (👉ﾟヮﾟ)👉 你好，我是LittleSadSheep！ 👈(ﾟヮﾟ👈)
 <img src="Background.jpg" width="100%" alt="banner" loading="lazy">
 
+> 图片来自 [@AkagawaTsurunaki](https://github.com/AkagawaTsurunaki) 的 [一期B站视频](https://www.bilibili.com/video/BV1sgeuzTECT/) 03:16处
+
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Blender Badge](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Minecraft Badge](https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
