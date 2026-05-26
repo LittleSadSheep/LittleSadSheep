@@ -65,9 +65,14 @@
                                 <span class="value">63%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">Asst3-InitialCode</span>
+                                <div class="bar" style="width: 17.328000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 25.543999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 8.216%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SQ-GAN</span>
@@ -85,8 +90,8 @@
                                 <span class="value">52%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">INI</span>
-                                <div class="bar" style="width: 17.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Java</span>
+                                <div class="bar" style="width: 17.328000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">22%</span>
                             </div>
                             <div class="entry">
