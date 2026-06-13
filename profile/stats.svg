@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">LittleSadSheep &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: C+</title>
-        <desc id="descId">获标星数: 11, 累计提交总数  : 264, 发起的 PR 总数: 14, 提出的 issue 总数: 9, 贡献的项目数（去年）: 6</desc>
+        <desc id="descId">获标星数: 10, 累计提交总数  : 292, 发起的 PR 总数: 15, 提出的 issue 总数: 9, 贡献的项目数（去年）: 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 200.04238991690107;
+        stroke-dashoffset: 199.80395112866265;
       }
     }
   
@@ -148,7 +148,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >11</text>
+      >10</text>
     </g>
   </g><g transform="translate(0, 21)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >264</text>
+      >292</text>
     </g>
   </g><g transform="translate(0, 42)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -178,7 +178,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >14</text>
+      >15</text>
     </g>
   </g><g transform="translate(0, 63)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -208,7 +208,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >6</text>
+      >7</text>
     </g>
   </g>
     </svg>
