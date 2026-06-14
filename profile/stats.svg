@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">LittleSadSheep &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: C+</title>
-        <desc id="descId">获标星数: 10, 累计提交总数  : 292, 发起的 PR 总数: 15, 提出的 issue 总数: 9, 贡献的项目数（去年）: 7</desc>
+        <desc id="descId">获标星数: 10, 累计提交总数  : 304, 发起的 PR 总数: 19, 提出的 issue 总数: 9, 贡献的项目数（去年）: 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 199.80395112866265;
+        stroke-dashoffset: 196.76759236036196;
       }
     }
   
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >292</text>
+      >304</text>
     </g>
   </g><g transform="translate(0, 42)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -178,7 +178,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >15</text>
+      >19</text>
     </g>
   </g><g transform="translate(0, 63)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
