@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 8.58mb of code in 1674 edited files across 183 commits</small>
+                <small>estimation from 9.14mb of code in 1836 edited files across 219 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="254.55408435269874" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="254.55408435269874" y="0" width="133.45441344049695" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="388.0084977931957" y="0" width="65.74918736491097" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="453.75768515810665" y="0" width="6.242314841893314" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="179.24959819346836" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="179.24959819346836" y="0" width="140.47700767160512" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="319.72660586507345" y="0" width="93.97472465304983" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="413.7013305181233" y="0" width="46.29866948187669" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -44,20 +44,6 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TSX
-                            </div>
-                            <small>
-                                <div>2.15k lines</div>
-                                <div>42.5 kB</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Vue
@@ -67,16 +53,30 @@
                                 <div>86.3 kB</div>
                             </small>
                         </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Astro
+                            </div>
+                            <small>
+                                <div>3.95k lines</div>
+                                <div>129 kB</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                TSX
                             </div>
                             <small>
-                                <div>98 lines</div>
-                                <div>4.04 kB</div>
+                                <div>2.15k lines</div>
+                                <div>42.5 kB</div>
                             </small>
                         </div>
                     </section>
