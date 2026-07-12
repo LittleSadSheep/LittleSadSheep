@@ -250,6 +250,7 @@
   btAnmCDJpHfdEqc3n9q/Elx97Ugf9wEAtZZN8fxFpeiGm05UJIV2hMcrE00UKb+7
   XOZrVHh6dwQ=
   =uPFp
+  -----END PGP PUBLIC KEY BLOCK-----
   ```
   
 </details>
