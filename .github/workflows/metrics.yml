@@ -28,6 +28,8 @@ jobs:
           plugin_traffic: yes
           # 此插件为文档中的 👨‍💻 Lines of code changed
           plugin_lines: yes
+          plugin_lines_skipped: LittleSadSheep/Fuwari-Blog
+          # 神秘Bug解决方法（暂时）
           # 此插件为文档中的 🙋 Introduction
           plugin_introduction: yes
           # 此插件为文档中的 🎫 Gists
