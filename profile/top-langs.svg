@@ -116,17 +116,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="72.78"
-          height="8"
-          fill="#b07219"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="72.78"
-          y="0"
-          width="72.73"
+          width="81.34"
           height="8"
           fill="#3572A5"
         />
@@ -134,29 +124,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="145.51"
+          x="81.34"
           y="0"
-          width="32.72"
+          width="67.25"
           height="8"
-          fill="#f1e05a"
+          fill="#b07219"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="178.23"
+          x="148.59"
           y="0"
-          width="31.58"
-          height="8"
-          fill="#41b883"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="209.81"
-          y="0"
-          width="24.79"
+          width="32.9"
           height="8"
           fill="#A97BFF"
         />
@@ -164,9 +144,29 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.6"
+          x="181.49"
           y="0"
-          width="15.4"
+          width="28.12"
+          height="8"
+          fill="#f1e05a"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="209.61"
+          y="0"
+          width="27.15"
+          height="8"
+          fill="#41b883"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="236.76000000000002"
+          y="0"
+          width="13.23"
           height="8"
           fill="#ff5a03"
         />
@@ -175,44 +175,44 @@
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 29.11%
+        Python 32.54%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 29.09%
+        Java 26.90%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 13.09%
+        Kotlin 13.16%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#41b883" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 12.63%
+        JavaScript 11.25%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 9.92%
+        Vue 10.86%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#ff5a03" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro 6.16%
+        Astro 5.29%
       </text>
     </g>
   </g></g>
