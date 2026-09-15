@@ -74,7 +74,7 @@
   </picture>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <picture>
@@ -83,7 +83,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleSadSheep&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
-</table>
+</table> -->
 
 
 </div>
@@ -262,7 +262,7 @@
 
 </div>
 
-[genshin-image]: https://genshin-card.himiku.com/rand/302923755.png
+[genshin-image]: https://ys.himiku.com/cards/rand/302923755.png
 [genshin-link]: https://enka.network/u/207525768
 
 
