@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">LittleSadSheep &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: B-</title>
-        <desc id="descId">获标星数: 16, 累计提交总数  : 2672, 发起的 PR 总数: 25, 提出的 issue 总数: 10, 贡献的项目数（去年）: 9</desc>
+        <title id="titleId">LittleSadSheep &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: B</title>
+        <desc id="descId">获标星数: 16, 累计提交总数  : 3036, 发起的 PR 总数: 25, 提出的 issue 总数: 10, 贡献的项目数（去年）: 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 157.26842021105492;
+        stroke-dashoffset: 155.8027806885605;
       }
     }
   
@@ -129,7 +129,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B-
+          B
         </text>
       
         </g>
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >2.7k</text>
+      >3k</text>
     </g>
   </g><g transform="translate(0, 42)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -208,7 +208,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >9</text>
+      >7</text>
     </g>
   </g>
     </svg>
