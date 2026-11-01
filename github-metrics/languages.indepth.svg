@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 45.9mb of code in 22337 edited files across 4587 commits</small>
+                <small>estimation from 46.5mb of code in 22650 edited files across 4655 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.534439453445" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="398.534439453445" y="0" width="42.358037461438514" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.8924769148835" y="0" width="13.088900856072884" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="453.9813777709564" y="0" width="6.0186222290436096" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.2002120916489" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="393.2002120916489" y="0" width="41.7910917221226" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="434.9913038137715" y="0" width="19.015856466527413" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="454.0071602802989" y="0" width="5.992839719701058" height="8" fill="#ff5a03"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,8 +49,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>28.5k lines</div>
-                                <div>956 kB</div>
+                                <div>39k lines</div>
+                                <div>1.41 MB</div>
                             </small>
                         </div>
                     </section>
@@ -75,8 +75,8 @@
                                 Astro
                             </div>
                             <small>
-                                <div>14.6k lines</div>
-                                <div>439 kB</div>
+                                <div>14.7k lines</div>
+                                <div>443 kB</div>
                             </small>
                         </div>
                     </section>
